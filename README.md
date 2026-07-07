@@ -29,7 +29,7 @@ The project was designed and simulated using Proteus and focuses on understandin
 
 </p>
 
-)
+
 
 
 
