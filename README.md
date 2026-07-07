@@ -30,7 +30,8 @@ Antenna	Copper wire	1
 Replace the placeholder below with the circuit image.
 
 docs/
-   circuit_diagram.png
+<img width="1370" height="961" alt="WhatsApp Image 2026-04-22 at 10 42 57 PM" src="https://github.com/user-attachments/assets/5fdf2a7b-2fbb-434e-ad11-d27541ae71e7" />
+
 <p align="center">
 
 Circuit Diagram
