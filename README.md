@@ -24,10 +24,12 @@ The project was designed and simulated using Proteus and focuses on understandin
 | **Power Supply (5V/9V)**                   | Provides operating voltage to the receiver and amplifier circuits.                |
 | **PCB / Breadboard**                       | Serves as the platform for assembling and interconnecting the circuit components. |
 
-🖼 Block Diagram
+## 🧩 Block Diagram
 
-![Block Diagram](<img width="1691" height="930" alt="ChatGPT Image Jul 7, 2026, 11_57_07 PM" src="https://github.com/user-attachments/assets/b3f9a7e7-f2ac-4b9b-b641-73b5011fb3a9" />
-)
+<p align="center">
+  <img src="<img width="1691" height="930" alt="ChatGPT Image Jul 7, 2026, 11_57_07 PM" src="https://github.com/user-attachments/assets/ab503440-10bf-4d66-8935-1a6a37f55498" />
+" alt="FM Receiver Block Diagram" width="900">
+</p>
 
 
 
