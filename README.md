@@ -27,7 +27,7 @@ Antenna	Copper wire	1
 
 🖼 Circuit Diagram
 
-Replace the placeholder below with the circuit image.
+
 
 docs/
 <img width="1370" height="961" alt="WhatsApp Image 2026-04-22 at 10 42 57 PM" src="https://github.com/user-attachments/assets/5fdf2a7b-2fbb-434e-ad11-d27541ae71e7" />
@@ -38,7 +38,7 @@ Circuit Diagram
 
 </p>
 
-Save the circuit diagram from your report as docs/circuit_diagram.png.
+
 
 📁 Repository Structure
 FM-Receiver-TDA7000/
