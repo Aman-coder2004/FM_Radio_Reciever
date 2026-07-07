@@ -25,6 +25,10 @@ The project was designed and simulated using Proteus and focuses on understandin
 | **PCB / Breadboard**                       | Serves as the platform for assembling and interconnecting the circuit components. |
 
 ![Block Diagram](<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/29111910-8c4d-4e37-b180-265fd66a7472" />
+<p align="center">
+
+</p>
+
 )
 
 
