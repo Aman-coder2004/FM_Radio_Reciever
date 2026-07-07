@@ -28,20 +28,6 @@ The project was designed and simulated using Proteus and focuses on understandin
 
 
 
-docs/
-<img width=
-🖼 Block Diagram
-
-docs/
-<img width="1370" height="961" alt="WhatsApp Image 2026-04-22 at 10 42 57 PM" src="https://github.com/user-attachments/assets/5fdf2a7b-2fbb-434e-ad11-d27541ae71e7" />
-
-<p align="center">
-
-</p> />
-
-<p align="center">
-
-</p>
 
 🖼 Circuit Diagram
 
