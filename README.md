@@ -77,19 +77,6 @@ Battery-powered portable design
 🧪 Software Used
 Proteus Design Suite
 
-📷 Project Images
-Circuit Diagram
-
-Insert image here
-
-Hardware Setup
-
-Insert image here
-
-Output
-
-Insert image here
-
 📖 Learning Outcomes
 FM communication
 RF amplification
