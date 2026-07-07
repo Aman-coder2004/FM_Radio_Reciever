@@ -23,8 +23,8 @@ The project was designed and simulated using Proteus and focuses on understandin
 | **8Ω Speaker**                             | Converts the amplified electrical audio signal into sound.                        |
 | **Power Supply (5V/9V)**                   | Provides operating voltage to the receiver and amplifier circuits.                |
 | **PCB / Breadboard**                       | Serves as the platform for assembling and interconnecting the circuit components. |
-
-![Block Diagram](<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/29111910-8c4d-4e37-b180-265fd66a7472" />
+🖼 Block Diagram
+(<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/29111910-8c4d-4e37-b180-265fd66a7472" />
 <p align="center">
 
 </p>
