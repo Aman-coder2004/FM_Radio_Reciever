@@ -9,32 +9,30 @@ This project demonstrates the design and implementation of an FM Receiver using 
 The project was designed and simulated using Proteus and focuses on understanding RF amplification, FM demodulation, tuning circuits, and audio amplification.
 
 
-🛠 Components Required
-Component	Specification	Quantity
-TDA7000 IC	FM Receiver IC	1
-LM386 IC	Audio Amplifier	1
-BF494 / BC547 Transistor	RF Amplifier	1
-Variable Capacitor / Potentiometer	Frequency tuning	1
-Inductor (LC Tank)	RF Tuning	1
-Capacitors	Various values	As required
-Resistors	Various values	As required
-Speaker	8Ω	1
-Antenna	Copper wire	1
-5V Supply	TDA7000	1
-9V Battery	LM386	1
+| **Component**                              | **Purpose / Function**                                                            |
+| ------------------------------------------ | --------------------------------------------------------------------------------- |
+| **TDA7000 FM Receiver IC**                 | Receives, demodulates, and processes FM radio signals.                            |
+| **LM386 Audio Amplifier IC**               | Amplifies the recovered audio signal to drive the speaker.                        |
+| **BF494 / BC547 Transistor**               | Amplifies weak RF signals received from the antenna.                              |
+| **Inductor (Coil)**                        | Forms the LC tuning circuit to select the desired FM station.                     |
+| **Variable Capacitor / Trimmer Capacitor** | Tunes the resonant frequency of the LC circuit for station selection.             |
+| **Resistors**                              | Provide biasing, current limiting, and voltage division within the circuit.       |
+| **Capacitors**                             | Used for coupling, decoupling, filtering, and frequency stabilization.            |
+| **Electrolytic Capacitors**                | Filter power supply noise and improve audio signal quality.                       |
+| **Antenna**                                | Receives FM broadcast signals from the air.                                       |
+| **8Ω Speaker**                             | Converts the amplified electrical audio signal into sound.                        |
+| **Power Supply (5V/9V)**                   | Provides operating voltage to the receiver and amplifier circuits.                |
+| **PCB / Breadboard**                       | Serves as the platform for assembling and interconnecting the circuit components. |
+
 
 
 
 🖼 Circuit Diagram
 
-
-
 docs/
 <img width="1370" height="961" alt="WhatsApp Image 2026-04-22 at 10 42 57 PM" src="https://github.com/user-attachments/assets/5fdf2a7b-2fbb-434e-ad11-d27541ae71e7" />
 
 <p align="center">
-
-Circuit Diagram
 
 </p>
 
