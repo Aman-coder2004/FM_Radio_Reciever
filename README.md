@@ -24,21 +24,7 @@ The project was designed and simulated using Proteus and focuses on understandin
 | **Power Supply (5V/9V)**                   | Provides operating voltage to the receiver and amplifier circuits.                |
 | **PCB / Breadboard**                       | Serves as the platform for assembling and interconnecting the circuit components. |
 
-🖼 Block Diagram
 
-docs/
-<img width=
-
-docs/
-<img width="1370" height="961" alt="WhatsApp Image 2026-04-22 at 10 42 57 PM" src="https://github.com/user-attachments/assets/5fdf2a7b-2fbb-434e-ad11-d27541ae71e7" />
-
-<p align="center">
-
-</p> />
-
-<p align="center">
-
-</p>
 
 
 
@@ -58,10 +44,12 @@ docs/
 📁 Repository Structure
 FM-Receiver-TDA7000/
 │── README.md
-│── docs/
-│   ├── circuit_diagram.png
-│   ├── block_diagram.png
-│   └── project_report.pdf
+│docs/
+├── block_diagram.png
+├── circuit_diagram.png
+├── hardware_setup.jpg
+├── output.jpg
+└── project_report.pdf
 │── Proteus/
 │   ├── FM_Receiver.pdsprj
 │   └── FM_Receiver.dsn
